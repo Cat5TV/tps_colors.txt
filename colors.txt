@@ -2,6 +2,8 @@
 # For a sample 2D Minetest map, see http://servers.minetest.tv/maps/creative
 
 # Compatibility with RGB Mod from https://github.com/Ezhh/rgb
+# Updated January 3, 2017
+
 rgb:000	0 0 0
 rgb:100	36 0 0
 rgb:200	73 0 0
