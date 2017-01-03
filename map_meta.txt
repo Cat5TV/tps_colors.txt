@@ -1,0 +1,6 @@
+chunksize = 5
+mg_name = v7
+mgv7_cave_width = 0.3
+seed = Create_a_cool_SEED_here
+water_level = 1
+[end_of_params]
