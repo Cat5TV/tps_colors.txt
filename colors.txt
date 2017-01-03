@@ -1,5 +1,5 @@
 # This file is used by leaftest/mapper to create 2D overview map.
-
+# For a sample 2D Minetest map, see http://servers.minetest.tv/maps/creative
 
 # Compatibility with RGB Mod from https://github.com/Ezhh/rgb
 rgb:000	0 0 0
