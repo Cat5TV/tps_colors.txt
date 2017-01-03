@@ -1,4 +1,7 @@
 # This file is used by leaftest/mapper to create 2D overview map.
+
+# colors.txt Version 2.0 by Robbie Ferguson (obviously with the help of others - please see below or add credits if I missed anything)
+
 # For a sample 2D Minetest map, see http://servers.minetest.tv/maps/creative
 
 # Compatibility with RGB Mod from https://github.com/Ezhh/rgb
